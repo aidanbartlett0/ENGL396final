@@ -1,12 +1,11 @@
 <!-- _coverpage.md -->
 
-# ENGL 396 <small>Beta</small>
+# My Favorite Albums Software Documentation
 
-> Software Documentation Rocks
+> ENGL 396 Final
 
-- Clear and concise
-- Well organized
-- Useful titles and opening text
+- Aidan Bartlett
+- 03/16/26
 
 [Canvas](https://canvas.uw.edu/courses/1805373)
 [Get Started](#home-page)

@@ -1,16 +1,17 @@
 <!-- _sidebar.md -->
 
-## &nbsp; ENGL 396
+## &nbsp; My Favorite Albums
 
-* [Home](README.md)
+* [Introduction](README.md)
 
-* First Group
+* Developer Documentation
 
-  * [Doc One](docone.md)
-  * [Doc Two](doctwo.md)
-  * [Doc Three](docthree.md)
+  * [Conceptual Documentation](Conceptual_Overview_dev.md)
+  * [Task Documentation](Task_Topics_Dev.md)
+  * [Reference Documentation](Reference_Documentation_dev.md)
   
-* Second Group 
+* End-user Documentation
 
-  * [Doc Four](docfour.md)
-  * [Doc Five](docfive.md)
+  * [Conceptual Documentation](Conceptual_Overview.md)
+  * [Task Documentation](Task_Topics.md)
+  * [Reference Documentation](Reference_Documentation.md)
