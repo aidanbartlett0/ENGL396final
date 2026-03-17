@@ -52,7 +52,7 @@ The code refers to the *album-rankings.csv* file when creating and interacting w
 #### 
 
 #### Data dictionary 
-The web app relies on data imported as a CSV file. The data dictionary, data constraints, and key distinctions can be found in the [reference documentation page](http://localhost:3000/#/Reference_Documentation_dev?id=data-dictionary).
+The web app relies on data imported as a CSV file. The data dictionary, data constraints, and key distinctions can be found in the [reference documentation page](https://aidanbartlett0.github.io/ENGL396final/#/Reference_Documentation_dev?id=data-dictionary).
 
 ### Scope
 
